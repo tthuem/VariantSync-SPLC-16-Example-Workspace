@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Context>
+    <changeLog>
+        <changeLog/>
+    </changeLog>
+    <color>GREY_BRIGHT</color>
+    <featureExpression>Default_Context</featureExpression>
+    <javaProjects/>
+</Context>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<FeatureExpressions>
+    <featureExpressions>Default_Context</featureExpressions>
+    <featureExpressions>MenuBar</featureExpressions>
+    <featureExpressions>Undo</featureExpressions>
+    <featureExpressions>Base</featureExpressions>
+    <featureExpressions>TextRaw</featureExpressions>
+    <featureExpressions>Print</featureExpressions>
+    <featureExpressions>TextStyled</featureExpressions>
+    <featureExpressions>ToolBar</featureExpressions>
+    <featureExpressions>Find</featureExpressions>
+    <featureExpressions>Clipboard</featureExpressions>
+    <featureExpressions>FullStyled</featureExpressions>
+    <featureExpressions>FormatStyled</featureExpressions>
+    <featureExpressions>File</featureExpressions>
+    <featureExpressions>FormatRaw</featureExpressions>
+</FeatureExpressions>
