@@ -1,0 +1,189 @@
+!SESSION 2016-09-20 23:06:40.294 -----------------------------------------------
+eclipse.buildId=4.6.0.I20160606-1100
+java.version=1.8.0_101
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_DE
+Framework arguments:  -product org.eclipse.platform.ide
+Command-line arguments:  -product org.eclipse.platform.ide -data C:\Users\tthuem\Tools\workspace-4.6-variantsync/../runtime-VariantSync -dev file:C:/Users/tthuem/Tools/workspace-4.6-variantsync/.metadata/.plugins/org.eclipse.pde.core/VariantSync/dev.properties -os win32 -ws win32 -arch x86_64 -consoleLog
+
+!ENTRY org.eclipse.ui 2 0 2016-09-20 23:06:42.960
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2016-09-20 23:06:42.960
+!MESSAGE Commands should really have a category: plug-in='de.ovgu.variantsync', id='CodeMappingPopupMenu.commands.mappingCommand', categoryId='CodeMappingPopupMenu.commands.category'
+
+!ENTRY org.eclipse.ui 2 0 2016-09-20 23:06:43.633
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2016-09-20 23:06:43.633
+!MESSAGE Commands should really have a category: plug-in='de.ovgu.variantsync', id='CodeMappingPopupMenu.commands.mappingCommand', categoryId='CodeMappingPopupMenu.commands.category'
+
+!ENTRY org.eclipse.ui 4 4 2016-09-20 23:06:45.278
+!MESSAGE Conflicting handlers for CodeMappingPopupMenu.commands.mappingCommand: {de.ovgu.variantsync.ui.controller.popup.actions.CodeMappingHandler} vs {de.ovgu.variantsync.ui.controller.popup.actions.ClassMappingHandler}
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-09-20 23:06:50.508
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\tthuem'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.epp.logging.aeri.ide 2 16 2016-09-20 23:06:53.788
+!MESSAGE Server ‘org.eclipse.epp.logging.aeri.ide.server’ failed with exception: Connect to dev.eclipse.org:443 [dev.eclipse.org/198.41.30.200] failed: connect timed out. ; version: 2.0.1.v20160605-1811
+!STACK 0
+org.apache.http.conn.ConnectTimeoutException: Connect to dev.eclipse.org:443 [dev.eclipse.org/198.41.30.200] failed: connect timed out
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:134)
+	at org.apache.http.impl.conn.PoolingHttpClientConnectionManager.connect(PoolingHttpClientConnectionManager.java:319)
+	at org.apache.http.impl.execchain.MainClientExec.establishRoute(MainClientExec.java:363)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:219)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.apache.http.client.fluent.Executor.execute(Executor.java:206)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.IO.request(IO.java:205)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.IO.refreshConfiguration(IO.java:68)
+	at org.eclipse.epp.internal.logging.aeri.ide.server.mars.ServerConnection.startUp(ServerConnection.java:101)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at java.net.DualStackPlainSocketImpl.waitForConnect(Native Method)
+	at java.net.DualStackPlainSocketImpl.socketConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.doConnect(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(Unknown Source)
+	at java.net.AbstractPlainSocketImpl.connect(Unknown Source)
+	at java.net.PlainSocketImpl.connect(Unknown Source)
+	at java.net.SocksSocketImpl.connect(Unknown Source)
+	at java.net.Socket.connect(Unknown Source)
+	at org.apache.http.conn.ssl.SSLConnectionSocketFactory.connectSocket(SSLConnectionSocketFactory.java:244)
+	at org.apache.http.impl.conn.HttpClientConnectionOperator.connect(HttpClientConnectionOperator.java:125)
+	... 16 more
+
+!ENTRY org.eclipse.oomph.setup.ui 2 0 2016-09-20 23:07:16.841
+!MESSAGE java.lang.NullPointerException
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.oomph.setup.ui.SetupUIPlugin.performStartup(SetupUIPlugin.java:379)
+	at org.eclipse.oomph.setup.ui.SetupUIPlugin.access$4(SetupUIPlugin.java:350)
+	at org.eclipse.oomph.setup.ui.SetupUIPlugin$1$1.run(SetupUIPlugin.java:247)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY de.ovgu.variantsync 1 0 2016-09-20 23:09:57.432
+!MESSAGE 20.09.16 23:05
+
+!ENTRY de.ovgu.variantsync 4 0 2016-09-20 23:10:08.874
+!MESSAGE Error appeared in called method.
+!STACK 0
+java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at de.ovgu.variantsync.ui.controller.AbstractController.setModelProperty(AbstractController.java:158)
+	at de.ovgu.variantsync.ui.controller.FeatureController.addFeatureMapping(FeatureController.java:80)
+	at de.ovgu.variantsync.ui.view.codemapping.CodeEditorMapping.handleSelection(CodeEditorMapping.java:87)
+	at de.ovgu.variantsync.ui.view.codemapping.DynamicMapMenu$1.widgetSelected(DynamicMapMenu.java:60)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1492)
+Caused by: java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(Unknown Source)
+	at de.ovgu.variantsync.applicationlayer.features.mapping.UtilOperations.parsePackageName(UtilOperations.java:323)
+	at de.ovgu.variantsync.applicationlayer.features.mapping.Mapping.getElement(Mapping.java:32)
+	at de.ovgu.variantsync.applicationlayer.features.mapping.CodeMapping.computeElement(CodeMapping.java:78)
+	at de.ovgu.variantsync.applicationlayer.features.mapping.Mapping.addMapping(Mapping.java:60)
+	at de.ovgu.variantsync.applicationlayer.features.FeatureMapping.mapCodeFragment(FeatureMapping.java:75)
+	at de.ovgu.variantsync.applicationlayer.features.FeatureProvider.addCodeFragment(FeatureProvider.java:111)
+	... 36 more
+Root exception:
+java.lang.StringIndexOutOfBoundsException: String index out of range: -1
+	at java.lang.String.substring(Unknown Source)
+	at de.ovgu.variantsync.applicationlayer.features.mapping.UtilOperations.parsePackageName(UtilOperations.java:323)
+	at de.ovgu.variantsync.applicationlayer.features.mapping.Mapping.getElement(Mapping.java:32)
+	at de.ovgu.variantsync.applicationlayer.features.mapping.CodeMapping.computeElement(CodeMapping.java:78)
+	at de.ovgu.variantsync.applicationlayer.features.mapping.Mapping.addMapping(Mapping.java:60)
+	at de.ovgu.variantsync.applicationlayer.features.FeatureMapping.mapCodeFragment(FeatureMapping.java:75)
+	at de.ovgu.variantsync.applicationlayer.features.FeatureProvider.addCodeFragment(FeatureProvider.java:111)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at de.ovgu.variantsync.ui.controller.AbstractController.setModelProperty(AbstractController.java:158)
+	at de.ovgu.variantsync.ui.controller.FeatureController.addFeatureMapping(FeatureController.java:80)
+	at de.ovgu.variantsync.ui.view.codemapping.CodeEditorMapping.handleSelection(CodeEditorMapping.java:87)
+	at de.ovgu.variantsync.ui.view.codemapping.DynamicMapMenu$1.widgetSelected(DynamicMapMenu.java:60)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1492)
+
+!ENTRY de.ovgu.variantsync 1 0 2016-09-20 23:10:31.719
+!MESSAGE 20.09.16 23:09
+
+!ENTRY de.ovgu.variantsync 1 0 2016-09-20 23:10:47.433
+!MESSAGE 20.09.16 23:10
+
+!ENTRY de.ovgu.variantsync 1 0 2016-09-20 23:11:48.573
+!MESSAGE 20.09.16 23:05
+
+!ENTRY de.ovgu.variantsync 1 0 2016-09-20 23:12:04.071
+!MESSAGE 25.08.16 01:31
+
+!ENTRY de.ovgu.variantsync 1 0 2016-09-20 23:12:07.555
+!MESSAGE 25.08.16 01:31
+
+!ENTRY de.ovgu.variantsync 1 0 2016-09-20 23:12:10.207
+!MESSAGE 24.08.16 20:45
+
+!ENTRY de.ovgu.variantsync 1 0 2016-09-20 23:29:16.522
+!MESSAGE 20.09.16 23:10
