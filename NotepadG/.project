@@ -13,6 +13,5 @@
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
-		<nature>de.ovgu.variantsync.vsyncSupportProjectNature</nature>
 	</natures>
 </projectDescription>

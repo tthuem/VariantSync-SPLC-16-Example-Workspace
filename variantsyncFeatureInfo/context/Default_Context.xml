@@ -52,5 +52,28 @@
                 <project>NotepadB</project>
             </value>
         </entry>
+        <entry>
+            <key>NotepadA</key>
+            <value>
+                <member xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="package">
+                    <member xsi:type="class">
+                        <changes>
+                            <change>
+<filename>NotepadA/src/Users/tthuem/Tools/runtime-VariantSync/NotepadA/bin/About.class</filename>
+<timestamp>-1</timestamp>
+                            </change>
+                        </changes>
+                        <code/>
+                        <name>About.class</name>
+                        <path>NotepadA/src/Users/tthuem/Tools/runtime-VariantSync/NotepadA/bin/About.class</path>
+                    </member>
+                    <name>Users.tthuem.Tools.runtime-VariantSync.NotepadA.bin</name>
+                    <path>NotepadA/src/Users/tthuem/Tools/runtime-VariantSync/NotepadA/bin</path>
+                </member>
+                <name>NotepadA</name>
+                <path>/NotepadA</path>
+                <project>NotepadA</project>
+            </value>
+        </entry>
     </javaProjects>
 </Context>
