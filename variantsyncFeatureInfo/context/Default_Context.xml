@@ -5,5 +5,52 @@
     </changeLog>
     <color>GREY_BRIGHT</color>
     <featureExpression>Default_Context</featureExpression>
-    <javaProjects/>
+    <javaProjects>
+        <entry>
+            <key>NotepadH</key>
+            <value>
+                <member xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="package">
+                    <member xsi:type="class">
+                        <changes>
+                            <change>
+<filename>NotepadH/src/Users/tthuem/Tools/runtime-VariantSync/NotepadH/bin/Actions.class</filename>
+<timestamp>-1</timestamp>
+                            </change>
+                        </changes>
+                        <code/>
+                        <name>Actions.class</name>
+                        <path>NotepadH/src/Users/tthuem/Tools/runtime-VariantSync/NotepadH/bin/Actions.class</path>
+                    </member>
+                    <name>Users.tthuem.Tools.runtime-VariantSync.NotepadH.bin</name>
+                    <path>NotepadH/src/Users/tthuem/Tools/runtime-VariantSync/NotepadH/bin</path>
+                </member>
+                <name>NotepadH</name>
+                <path>/NotepadH</path>
+                <project>NotepadH</project>
+            </value>
+        </entry>
+        <entry>
+            <key>NotepadB</key>
+            <value>
+                <member xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="package">
+                    <member xsi:type="class">
+                        <changes>
+                            <change>
+<filename>NotepadB/src/Users/tthuem/Tools/runtime-VariantSync/NotepadB/bin/Notepad$1.class</filename>
+<timestamp>-1</timestamp>
+                            </change>
+                        </changes>
+                        <code/>
+                        <name>Notepad$1.class</name>
+                        <path>NotepadB/src/Users/tthuem/Tools/runtime-VariantSync/NotepadB/bin/Notepad$1.class</path>
+                    </member>
+                    <name>Users.tthuem.Tools.runtime-VariantSync.NotepadB.bin</name>
+                    <path>NotepadB/src/Users/tthuem/Tools/runtime-VariantSync/NotepadB/bin</path>
+                </member>
+                <name>NotepadB</name>
+                <path>/NotepadB</path>
+                <project>NotepadB</project>
+            </value>
+        </entry>
+    </javaProjects>
 </Context>
