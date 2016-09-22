@@ -6,6 +6,116 @@
     <language>en</language>
      <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
       <item>
+    <title>Webclipse</title>
+    <link>http://marketplace.eclipse.org/content/webclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/webclipse110x80_1.png&quot; width=&quot;100&quot; height=&quot;73&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2015-07-27 09:32&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2016-09-21 18:31&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/twebbcke/listings&quot; title=&quot;Tim Webb&quot;&gt;Tim Webb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;From JSjet with TypeScript and JavaScript to Live Preview, from Breadcrumbs to an enhanced Project Explorer, &lt;strong&gt;Webclipse&lt;/strong&gt; powers up Eclipse for the full-stack developer.  Web developers can now get outstanding web development, from rapid validation, syntax coloring, call hierarchies, content assist to refactoring, outline views, and more.&lt;/p&gt;
+&lt;p&gt;Included in Webclipse:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;&lt;strong&gt;JSjet for Eclipse&lt;/strong&gt; gives you a jet engine to power your TypeScript &amp;amp; JavaScript coding - no more does JS in Eclipse need to be a second class citizen! Includes support for node.js and now TypeScript!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;JavaScript Debugger&lt;/strong&gt; lets you find and fix bugs in your JavaScript right inside your Eclipse IDE.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CodeLive w/Live Preview&lt;/strong&gt; lets you see changes inside Firefox, Chrome, Edge and Safari simultaneously while you change HTML, CSS and JSP files!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Emmet&lt;/strong&gt; lets you type short css-like expressions to expand rich blocks in HTML and CSS.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Slack Code Sharing&lt;/strong&gt; lets you share snippets of code directly from within Eclipse to your teammates.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Breadcrumb&lt;/strong&gt; toolbar simplifies navigation to related elements in your workspace right next to your active editor.&lt;/li&gt;
+&lt;li&gt;Not to mention other power-ups like the &lt;strong&gt;Minimap&lt;/strong&gt; and the &lt;strong&gt;Project Explorer+&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Stay tuned.  We have exciting updates coming frequently!&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Mon, 27 Jul 2015 13:32:00 +0000</pubDate>
+ <dc:creator>twebbcke</dc:creator>
+ <guid isPermaLink="false">2456312 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/webclipse#comments</comments>
+  </item>
+  <item>
+    <title>Yang IDE</title>
+    <link>http://marketplace.eclipse.org/content/yang-ide</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2016-09-20 11:59&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2016-09-21 15:29&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/dkarrhx4/listings&quot; title=&quot;David M. Karr&quot;&gt;David M. Karr&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The Yang IDE plugin is used for viewing and editing YANG model files, in the format as specified at &lt;a href=&quot;https://tools.ietf.org/html/rfc6020&quot;&gt;https://tools.ietf.org/html/rfc6020&lt;/a&gt; .&lt;/p&gt;
+&lt;p&gt;This project is associated with the OpenDaylight project, a Software-Defined Networking framework often used with OpenStack.  It uses the Yang parser that is part of OpenDaylight, but it can be used to view and edit YANG model files without otherwise downloading or installing OpenDaylight.&lt;/p&gt;
+&lt;p&gt;Creating a Yang Project with the plugin creates a skeleton project using a Maven POM file, which specifies the OpenDaylight components that are used to compile the YANG model files. This can be used outside of the plugin to generate the Java code associated with the Yang models, using the specified code generator. These steps are not required to utilize the plugin only for viewing and editing YANG models.&lt;/p&gt;
+&lt;p&gt;The following is a short list of provided features:&lt;br /&gt;
+* Intelligent completion of YANG keywords, import file names, and user-defined types and components&lt;br /&gt;
+* Completions can be scoped to defined namespace prefixes&lt;br /&gt;
+* Immediate reporting of syntactical and semantic errors in current YANG file in editor, as typical Eclipse error markers&lt;br /&gt;
+* YANG import file candidates can be obtained from Maven dependencies&lt;br /&gt;
+* Tooltips of referenced components show description property of defined component&lt;br /&gt;
+* A keyboard shortcut (and menu item) can be used to navigate to the definition of a referenced import file or component, even if obtained from a Maven dependency&lt;br /&gt;
+* In addition to the text view, a rudimentary UML-like view of the model can be rendered. This is a &quot;live&quot; view, which can be rearranged and edited, and will immediately reflect changes from the text view&lt;br /&gt;
+* The Yin (XML) view of the model can also be shown&lt;/p&gt;
+&lt;p&gt;The plugin can be installed from the Marketplace client, or using the supplied update site.  In addition, other installation instructions are provided at &lt;a href=&quot;http://docs.opendaylight.org/en/stable-boron/getting-started-guide/project-specific-guides/yangide.html&quot;&gt;http://docs.opendaylight.org/en/stable-boron/getting-started-guide/proje...&lt;/a&gt; .&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Tue, 20 Sep 2016 15:59:45 +0000</pubDate>
+ <dc:creator>dkarrhx4</dc:creator>
+ <guid isPermaLink="false">3081653 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/yang-ide#comments</comments>
+  </item>
+  <item>
+    <title>Eclipse Tomcat Plugin</title>
+    <link>http://marketplace.eclipse.org/content/eclipse-tomcat-plugin</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/start.gif&quot; width=&quot;16&quot; height=&quot;16&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2014-10-10 03:13&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2016-09-21 11:11&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mkeunecke/listings&quot; title=&quot;Markus Keunecke&quot;&gt;Markus Keunecke&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The Eclipse Tomcat Plugin provides simple integration of a tomcat servlet container for the development of java web applications.&lt;/p&gt;
+&lt;p&gt;This project is the successor of the original Sysdeo Tomcat Plugin.&lt;/p&gt;
+&lt;p&gt;Bug reports should go to our project on SourceForge: &lt;a href=&quot;https://sourceforge.net/p/tomcatplugin/tickets/new/&quot;&gt;https://sourceforge.net/p/tomcatplugin/tickets/new/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Feel free to join our IRC channel #tomcatplugin on Freenode.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Fri, 10 Oct 2014 07:13:45 +0000</pubDate>
+ <dc:creator>mkeunecke</dc:creator>
+ <guid isPermaLink="false">1963651 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/eclipse-tomcat-plugin#comments</comments>
+  </item>
+  <item>
+    <title>Code Sharing for Slack</title>
+    <link>http://marketplace.eclipse.org/content/code-sharing-slack</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/ecs.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2015-10-26 10:10&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2016-09-21 07:16&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/twebbcke/listings&quot; title=&quot;Tim Webb&quot;&gt;Tim Webb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Code Sharing for Slack provides code sharing to your &lt;strong&gt;#Slack&lt;/strong&gt; channel automatically!  100% free, installable separably from the &lt;a href=&quot;https://www.genuitec.com/products/webclipse/&quot;&gt;Webclipse&lt;/a&gt; suite.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://www.genuitec.com/wp-content/uploads/2016/06/howto_new.gif&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;If you have Slack for Eclipse installed and a teammate shares code with you, your Eclipse can offer opening the same code being discussed.&lt;/p&gt;
+&lt;p&gt;Made available for free, for unlimited usage.  &lt;a href=&quot;https://www.genuitec.com/products/webclipse/pricing/&quot;&gt;Learn more&lt;/a&gt; about other always free Webclipse features as well as some other great features as well!&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Mon, 26 Oct 2015 14:10:50 +0000</pubDate>
+ <dc:creator>twebbcke</dc:creator>
+ <guid isPermaLink="false">2582095 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/code-sharing-slack#comments</comments>
+  </item>
+  <item>
+    <title>Gerrit Workflow for Eclipse</title>
+    <link>http://marketplace.eclipse.org/content/gerrit-workflow-eclipse</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/gerritworkflow110.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2015-10-27 09:20&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2016-09-21 07:16&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/twebbcke/listings&quot; title=&quot;Tim Webb&quot;&gt;Tim Webb&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;If you use Gerrit code review and repository management for Git, you’ll love our Gerrit Workflow. We’ve simplified the process of creating a continuously deliverable product. 100% free, now, it’s a breeze to instantly fetch changes and switch between multiple feature and stable branches.&lt;/p&gt;
+&lt;p&gt;&lt;img width=&quot;600&quot; src=&quot;https://resources.cloud.genuitec.com/wp-content/uploads/2015/10/Gerrit-Branching1.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Installable separably from the &lt;a href=&quot;https://www.genuitec.com/products/webclipse/&quot;&gt;Webclipse&lt;/a&gt; suite, learn how tools like Gerrit Workflow in Webclipse provide great power for &lt;a href=&quot;https://www.genuitec.com/products/webclipse/pricing/&quot;&gt;free&lt;/a&gt; each month.&lt;/p&gt;
+&lt;p&gt;With Gerrit Workflow for Eclipse, you can simply:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Create Change Branches&lt;/strong&gt;&lt;br /&gt;Use change branches to avoid dependencies between commits. Create a change branch every time you start working on a bug fix or a small feature. Set up a target stable branch and use Push to Upstream.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Create Feature Branches&lt;/strong&gt;&lt;br /&gt;Use feature branches to keep work on new features out of the stable branch until the code matures enough. Create a new feature branch for each new feature and enjoy using Push to Upstream.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Commit Changes for Review&lt;/strong&gt;&lt;br /&gt;If you use Gerrit Workflow to switch between branches, the repository is always correctly configured to push upstream. Bye, bye Push to Gerrit, welcome Commit and Push.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fetch Code Changes&lt;/strong&gt;&lt;br /&gt;We’ve simplified the process of downloading code changes. Just select a change you want from the list of open changes and choose the patchset version.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Create and Push Tags&lt;/strong&gt;&lt;br /&gt;Use this Gerrit Workflow option as a great way to tag multiple repositories at once.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Tue, 27 Oct 2015 13:20:17 +0000</pubDate>
+ <dc:creator>twebbcke</dc:creator>
+ <guid isPermaLink="false">2583696 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/gerrit-workflow-eclipse#comments</comments>
+  </item>
+  <item>
+    <title>DSL Forge</title>
+    <link>http://marketplace.eclipse.org/content/dsl-forge</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/dslforge_0.png&quot; width=&quot;110&quot; height=&quot;39&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2016-01-17 16:46&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2016-09-21 05:03&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/alajmi/listings&quot; title=&quot;Amine Lajmi&quot;&gt;Amine Lajmi&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;DSL Forge is a framework for the development of domain-specific language (DSL) editors for web applications and cloud IDEs. The framework allows building web-based textual editors from ANTLR grammars. From the grammar specification, a JavaScript parser and lexer are automatically generated and embedded into Cloud9’s ACE editor.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Sun, 17 Jan 2016 21:46:08 +0000</pubDate>
+ <dc:creator>alajmi</dc:creator>
+ <guid isPermaLink="false">2685378 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/dsl-forge#comments</comments>
+  </item>
+  <item>
+    <title>GotoEditor</title>
+    <link>http://marketplace.eclipse.org/content/gotoeditor</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2014-07-02 03:58&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2016-09-20 22:38&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jjixiufgmailcom/listings&quot; title=&quot;jixiuf jixiufgmail.com&quot;&gt;jixiuf jixiufgmail.com&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;This little plugin helps you to&lt;br /&gt;
+1. open selected file with your prefered external editor&lt;br /&gt;
+   (it will auto refresh the file  in eclipse when you close your external editor, and auto refresh each 30 seconds)&lt;br /&gt;
+2. open shell in current selected file path.&lt;br /&gt;
+3. browse resources with the &#039;Explorer&#039; of your platform  &lt;/p&gt;
+&lt;p&gt;source is on &lt;a href=&quot;https://github.com/emacs-java/eclipse_goto_editor&quot;&gt;https://github.com/emacs-java/eclipse_goto_editor&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Wed, 02 Jul 2014 07:58:48 +0000</pubDate>
+ <dc:creator>jjixiufgmailcom</dc:creator>
+ <guid isPermaLink="false">1777902 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/gotoeditor#comments</comments>
+  </item>
+  <item>
     <title>Unvired Modeler for UMP v3</title>
     <link>http://marketplace.eclipse.org/content/unvired-modeler-ump-v3</link>
     <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/Un%20Vired_Logo%20_Small%2072dip.jpg&quot; width=&quot;110&quot; height=&quot;65&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2016-09-17 05:31&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2016-09-20 10:39&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/uinc/listings&quot; title=&quot;Srini Subramanian&quot;&gt;Srini Subramanian&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The Unvired Modeler v3 is used to model and develop mobile and web applications in Java and JavaScript.  These applications are deployed on the Unvired Mobile/Digital Platform v3.  &lt;/p&gt;
@@ -73,199 +183,6 @@ Only multi projects are supported. You can select only one root project as base 
  <dc:creator>wbeaton</dc:creator>
  <guid isPermaLink="false">2393593 at http://marketplace.eclipse.org</guid>
  <comments>http://marketplace.eclipse.org/content/java-9-support-beta-neon#comments</comments>
-  </item>
-  <item>
-    <title>Bravo JSP editor</title>
-    <link>http://marketplace.eclipse.org/content/bravo-jsp-editor</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/overview_s.jpg&quot; width=&quot;94&quot; height=&quot;76&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2008-08-18 15:03&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2016-09-19 09:56&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/byangjy8/listings&quot; title=&quot;Beck Yang&quot;&gt;Beck Yang&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Bravo JSP editor is a WYSIWYG JSP/HTML editor. It also include a powerful DOM modified tool, String externalize wizard. The free edition can be freely used without time limitation, commercial used is permitted.&lt;/p&gt;
-&lt;p&gt;Eclipse v4.5(Mars), v4.6(Neon) or higher version are not support now.&lt;/p&gt;
-&lt;p&gt;For Windows x64 and Eclipse 4.3.x user, please &lt;a href=&quot;http://bravo.comxa.com/faq_e.php&quot;&gt;read this notice&lt;/a&gt; if you get error message.&lt;/p&gt;
-&lt;!--break--&gt;&lt;p&gt;&lt;b&gt;Visual part&lt;/b&gt;: support &lt;b&gt;CSS style, images, JSP expression/tag library/tag file, external included files &lt;/b&gt;. The &lt;a href=&quot;http://bravo.comxa.com/demo7.php&quot;&gt;HTML visual view&lt;/a&gt; can used to preview the HTML rendering of editing document.&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;Editor&lt;/b&gt;: composed by visual part and JSP editor from WTP(Eclipse Web Tools platform). So code assist, code template and other functions are reserved. &lt;a href=&quot;http://bravo.comxa.com/demo.php&quot;&gt;View demo here (need flash player)&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;DOM find/replace dialog&lt;/b&gt;: Help to modify DOM based document by custom java script, the editing could be saved as command and combined to a &quot;macro&quot;. This feature also support other editors based on Webtools, such as: Hibernate Tools&#039; HBM XML editor. &lt;a href=&quot;http://bravo.comxa.com/demo6.php&quot;&gt;View demo here&lt;/a&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;String externalize wizard&lt;/b&gt;: A simple way to localized your JSP - extract the text inside JSP to property file, generate tag library code. &lt;a href=&quot;http://bravo.comxa.com/demo2.php&quot;&gt;View demo here (need flash player)&lt;/a&gt;
-&lt;/p&gt;
-&lt;p&gt;&lt;b&gt;JSTL view&lt;/b&gt;: could list Java Bean&#039;s property or a resource bundle file in it. Once double click a row, the property name/resource bundle key will be copied into active text editor&lt;/p&gt;
-&lt;p&gt;
-Do you need to modify exist JSP/HTML based document frequently? Do you prefer to input/copy/paste in code editor?&lt;br /&gt;
-Try this plugins, you will love it!
-&lt;/p&gt;
-&lt;p&gt;Before you install via update site, please &lt;a href=&quot;http://bravo.comxa.com/install.php&quot;&gt;read installation page first&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
-     <pubDate>Mon, 18 Aug 2008 19:03:31 +0000</pubDate>
- <dc:creator>byangjy8</dc:creator>
- <guid isPermaLink="false">749 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/bravo-jsp-editor#comments</comments>
-  </item>
-  <item>
-    <title>Codetrails Connect Community Edition</title>
-    <link>http://marketplace.eclipse.org/content/codetrails-connect-community-edition</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/codetrails-connect.png&quot; width=&quot;110&quot; height=&quot;33&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2013-06-09 13:00&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2016-09-19 09:34&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/cteamrav/listings&quot; title=&quot;Codetrails Team&quot;&gt;Codetrails Team&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Codetrails Connect Community Edition (from the people who brought you &lt;a href=&quot;http://eclipse.org/recommenders&quot;&gt;Eclipse Code Recommenders&lt;/a&gt;) is a platform for software development teams where experienced developers can share the knowledge how to use an API with their team – or even the whole Eclipse community – in no time.&lt;/p&gt;
-&lt;p&gt;By installing the Codetrails Connect into your IDE,  your IDE immediately starts learning how any API is used correctly by watching how you interact with the it and write code. This knowledge then can be shared with Codetrails&#039; &lt;b&gt;Community Server for Eclipse&lt;/b&gt; which shares the newly gained knowledge with the whole Eclipse community.&lt;/p&gt;
-&lt;p&gt;After installing Codetrails Connect, you may need to enable it. Activate Content Assist anywhere. If you see a proposal “Enable intelligent code completion?”, simply press &lt;em&gt;Enter&lt;/em&gt; to enable it.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://marketplace.eclipse.org/sites/default/files/enable-intelligent-code-completion.png&quot; width=&quot;520px&quot; alt=&quot;Enable intelligent code completion&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;If you don’t see the proposal and Codetrails Connect isn’t working, goto &lt;em&gt;Preferences &amp;gt; Code Recommenders &amp;gt; Completions&lt;/em&gt; and select “Enable intelligent code completion”.&lt;/p&gt;
-&lt;p&gt;Features Codetrails Connect offers so far:&lt;/p&gt;
-&lt;h2&gt;Hippie Call Completion&lt;/h2&gt;
-&lt;p&gt;Eclipse’ standard Java code completion always presents you a list of all accessible methods you may call on an instance – and this is often way more than you want to see. With Codetrails Connect Hippie Completion, proposals additionally display information about which method you are likely to call. You can configure Hippie Completion to rank the most relevant proposals on top, the irrelevant proposals below and to help you to quickly spot the relevant methods for your task at hand.&lt;/p&gt;
-&lt;p&gt;Codetrails Connect Community Edition contributes the world&#039;s first &lt;b&gt;crowd-sourced code completion engine for Java&lt;/b&gt;. In a nutshell, it learns which method completions you have selected and uses this information to rank future proposals for the same type:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://marketplace.eclipse.org/sites/default/files/hippie-call-completion.png&quot; width=&quot;520px&quot; alt=&quot;Hippie Completion proposing often used methods&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Hippie completion works on static methods as well, helping you to pick the right proposal from an often long list of static methods.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://marketplace.eclipse.org/sites/default/files/hippie-static-methods-completion.png&quot; width=&quot;520px&quot; alt=&quot;Hippie Completion proposing often used static methods&quot; /&gt;&lt;/p&gt;
-&lt;h2&gt;Hippie Constructor Completion&lt;/h2&gt;
-&lt;p&gt;Similar to learning relevant method calls, Hippie Completion learns which constructors you called when creating an instance. Noteworthy about constructor completion is that Hippie Completion learns likely completion scenarios even when subtypes of a completion are selected. For instance, when completing an assignment to the abstract class List&amp;lt;?&amp;gt;, it learns that the assignment is frequently completed with new &lt;em&gt;ArrayList&amp;lt;&amp;gt;()&lt;/em&gt;. This is then presented above all other Eclipse-generated proposals.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://marketplace.eclipse.org/sites/default/files/hippie-constructor-completion_0.png&quot; width=&quot;520px&quot; alt=&quot;Hippie Completion proposing often used constructors&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;For more details see the &lt;a href=&quot;http://www.codetrails.com/connect/getting-started&quot;&gt;Getting Started&lt;/a&gt; guide.&lt;/p&gt;
-&lt;h1&gt;Live Dashboard&lt;/h1&gt;
-&lt;p&gt;See how the Eclipse Community uses Codetrails Connect. Check out the live dashboard to see how many events developers share with Codetrails Connect, for which APIs and a couple of things more:&lt;/p&gt;
-&lt;h2&gt;Visit the &lt;a href=&quot;http://download.codetrails.com/connect/dashboard/&quot;&gt;Codetrails Connect Dashboard&lt;/a&gt;&lt;/h2&gt;
-&lt;h1&gt;Changelog&lt;/h1&gt;
-&lt;h2&gt;v1.4.2&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Better proxy support&lt;/li&gt;
-&lt;li&gt;Compatibility with Eclipse Code Recommenders 2.2.3&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.4.1&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Compatibility with Eclipse Code Recommenders 2.2.0&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.4.0&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Bug fixes&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.3.1&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Compatibility with Eclipse Code Recommenders 2.1.13&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.3.0&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Faster start-up&lt;/li&gt;
-&lt;li&gt;Support for HTTP(S) proxies&lt;/li&gt;
-&lt;li&gt;Easier management of sharing preferences&lt;/li&gt;
-&lt;li&gt;Compatibility with Eclipse Code Recommenders 2.1.12&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.2.15&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Compatibility with Eclipse Code Recommenders 2.1.11&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.2.14&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Compatibility with Eclipse Code Recommenders 2.1.10&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.2.13&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Improved boosts of expected (sub)types&lt;/li&gt;
-&lt;li&gt;Compatibility with Eclipse Code Recommenders 2.1.9&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.2.12&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Compatibility with Eclipse Code Recommenders 2.1.8&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.2.11&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Compatibility with Eclipse Code Recommenders 2.1.7&lt;/li&gt;
-&lt;li&gt;Added Tweaks proposal boost for already imported types&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.2.10&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Compatibility with Eclipse Code Recommenders 2.1.6&lt;/li&gt;
-&lt;li&gt;Improved support for generic method signatures (Hippie Call Completion)&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.2.9&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Fixed rare IllegalArgumentException when using override- or constructor Completion&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.2.8&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Compatibility with Eclipse Code Recommenders 2.1.5&lt;/li&gt;
-&lt;li&gt;Improved compatibility with Eclipse 4.2 (Juno)&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.2.7&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Compatibility with Eclipse Code Recommenders 2.1.4&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.2.6&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Compatibility with Eclipse Code Recommenders 2.1.3&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.2.5&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Compatibility with Eclipse Code Recommenders 2.1.2&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.2.4&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Improved proxy support&lt;/li&gt;
-&lt;li&gt;Fixed incompatibility with older version of com.sun.jersey&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.2.3&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Compatibility with Eclipse Luna and Eclipse Code Recommenders 2.1.1&lt;/li&gt;
-&lt;li&gt;Improved support for generic method signatures (Hippie Call Completion)&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.2.2&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Integrated subtype-aware completion&lt;/li&gt;
-&lt;li&gt;See this &lt;a href=&quot;http://www.codetrails.com/blog/use-subtype-aware-completion-and-help-shape-future-code-completion&quot;&gt;blog post for details&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.2.1&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Fixed an issue with type hierarchies that would in rare cases show too little completion events for proposals.&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.2.0&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Boostrapped with more than 33 million code completion events!&lt;/li&gt;
-&lt;li&gt;Build on top of (an seamlessly integrated with) Recommenders 2.0&lt;/li&gt;
-&lt;li&gt;See this &lt;a href=&quot;http://www.codetrails.com/blog/powered-33-million-code-completions-codetrails-connect-12&quot;&gt;blog post for details&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.1.0&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Added support for recommending and sharing override completion events.&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.0.2&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Added support for recommending static parameterized (generic) methods.&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;v1.0.1&lt;/h2&gt;
-&lt;ul&gt;&lt;li&gt;Fixed completion freezes Eclipse when internet connection is very slow.&lt;/li&gt;
-&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
-     <pubDate>Sun, 09 Jun 2013 17:00:34 +0000</pubDate>
- <dc:creator>cteamrav</dc:creator>
- <guid isPermaLink="false">904766 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/codetrails-connect-community-edition#comments</comments>
-  </item>
-  <item>
-    <title>g9 Database Import</title>
-    <link>http://marketplace.eclipse.org/content/g9-database-import</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/Esito-g9-110x80.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2016-09-14 09:30&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2016-09-19 02:52&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/dbyesen/listings&quot; title=&quot;Dag Bøyesen&quot;&gt;Dag Bøyesen&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Do you need to create Java classes, or an Xcore or Ecore representation of your exisiting database? &lt;strong&gt;g9 Database Model Import&lt;/strong&gt; is a free g9 Eclipse plugin producing models based on structure information read from databases.&lt;/p&gt;
-&lt;p&gt;Given a connection to an existing database, the g9 Database Import will read tables and columns in your database (using the database schema) and create the corresponding model either in Java, Xcore or Ecore depending on the project type of your Eclipse project. An import of your database to a Java Project will create Java classes, an import to an Xcore Project will create an Xcore model, all other Eclipse Project types will result in an Ecore model. The Java classes may be enriched with &lt;em&gt;JPA annotations&lt;/em&gt;. If you work with Xcore or Ecore models you should use &lt;em&gt;Eclipse for Java and DSL Developers&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;In the g9 Database Import feature you connect to a database using a JDBC driver. The built-in drivers are MySQL, MS SQL Server (jTDS) and Sybase ASE (jTDS). Use the function [&lt;strong&gt;Maintain JDBC Drivers&lt;/strong&gt;] in the g9 Import feature to connect to other databases, e.g Oracle, PostgreSQL, Firebird or a DBMS of your choice.&lt;/p&gt;
-&lt;p&gt;Choose&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;which tables to include: by default all tables are included and a class name based on the table names are suggested&lt;/li&gt;
-&lt;li&gt;which columns to include: by default all columns are included and an attribute name based on the column names are suggested&lt;/li&gt;
-&lt;li&gt;the data type mappings for your domain model based on the JDBC types - or use default values&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;You may download the complete &lt;strong&gt;g9&lt;/strong&gt; product and use the Database import feature in a g9 Eclipse Project. To be able to exploit the other features in g9, you should create a &lt;em&gt;g9 UI Modeling Project&lt;/em&gt; and import your database to an Ecore, Xcore model or Java source with &lt;em&gt;g9 annotations&lt;/em&gt;. Please see the User guide for more information about the g9 Database Import feature.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
-     <pubDate>Wed, 14 Sep 2016 13:30:45 +0000</pubDate>
- <dc:creator>dbyesen</dc:creator>
- <guid isPermaLink="false">3072599 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/g9-database-import#comments</comments>
-  </item>
-  <item>
-    <title>GotoEditor</title>
-    <link>http://marketplace.eclipse.org/content/gotoeditor</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2014-07-02 03:58&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2016-09-17 09:01&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jjixiufgmailcom/listings&quot; title=&quot;jixiuf jixiufgmail.com&quot;&gt;jixiuf jixiufgmail.com&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;This little plugin helps you to&lt;br /&gt;
-1. open selected file with your prefered external editor&lt;br /&gt;
-   (it will auto refresh the file  in eclipse when you close your external editor, and auto refresh each 30 seconds)&lt;br /&gt;
-2. open shell in current selected file path.&lt;br /&gt;
-3. browse resources with the &#039;Explorer&#039; of your platform  &lt;/p&gt;
-&lt;p&gt;source is on &lt;a href=&quot;https://github.com/emacs-java/eclipse_goto_editor&quot;&gt;https://github.com/emacs-java/eclipse_goto_editor&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
-     <pubDate>Wed, 02 Jul 2014 07:58:48 +0000</pubDate>
- <dc:creator>jjixiufgmailcom</dc:creator>
- <guid isPermaLink="false">1777902 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/gotoeditor#comments</comments>
-  </item>
-  <item>
-    <title>Unvired SDK Installer</title>
-    <link>http://marketplace.eclipse.org/content/unvired-sdk-installer</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/Un%20Vired_Logo%20_Small%2072dip_0.jpg&quot; width=&quot;110&quot; height=&quot;65&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2015-02-24 09:12&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2016-09-17 05:24&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/uinc/listings&quot; title=&quot;Srini Subramanian&quot;&gt;Srini Subramanian&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Plugin to install Unvired SDKs for developing Unvired Mobile Apps&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
-     <pubDate>Tue, 24 Feb 2015 14:12:18 +0000</pubDate>
- <dc:creator>uinc</dc:creator>
- <guid isPermaLink="false">2205878 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/unvired-sdk-installer#comments</comments>
-  </item>
-  <item>
-    <title>Virtual Developer Modeler</title>
-    <link>http://marketplace.eclipse.org/content/virtual-developer-modeler</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/2013-04-05-IMG-Logo%20Virtual%20Developer%204c%20110x72.jpg&quot; width=&quot;110&quot; height=&quot;72&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2013-12-05 16:54&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2016-09-16 12:42&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/ggmbhke8/listings&quot; title=&quot;Generative Software GmbH&quot;&gt;Generative Software GmbH&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The &quot;Virtual Developer Modeler&quot; is a generic modeling tool based on &lt;a href=&quot;http://marketplace.eclipse.org/content/emftext#.UqD1mJFpu5E&quot; target=&quot;_blank&quot;&gt;EMFText&lt;/a&gt;. It is shipped with one single DSL-editor. With its built-in gapp-DSL you can define your own DSLs that can all be used in parallel and with the same DSL-editor. All DSL-files have the file-ending &quot;.gapp&quot;.&lt;/p&gt;
-&lt;p&gt;The modeling tool is designed to effortlessly create application models to be used as input for code generators, especially for code generators that are built with and for the &lt;a href=&quot;http://www.virtual-developer.com&quot; target=&quot;_blank&quot;&gt;Virtual Developer Platform&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;For more detailed information please visit the &lt;a href=&quot;https://www.virtual-developer.com/en/virtual-developer-overview&quot; target=&quot;_blank&quot;&gt;documentation pages on the Virtual Developer Info Site&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Some pre-built, platform-independt, ready-to-use DSLs are included in the installation:&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;UI&lt;/li&gt;
-&lt;li&gt;Function&lt;/li&gt;
-&lt;li&gt;Persistence&lt;/li&gt;
-&lt;li&gt;Basic&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Along with these DSLs you also find pre-built, platform-dependent DSL-extensions for&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;REST&lt;/li&gt;
-&lt;li&gt;Mobile&lt;/li&gt;
-&lt;li&gt;Android&lt;/li&gt;
-&lt;li&gt;EJB&lt;/li&gt;
-&lt;li&gt;JPA&lt;/li&gt;
-&lt;li&gt;Java&lt;/li&gt;
-&lt;li&gt;IoT&lt;/li&gt;
-&lt;/ul&gt;&lt;p&gt;Read the &lt;a href=&quot;https://www.virtual-developer.com/blog&quot; target=&quot;_blank&quot;&gt;Virtual Developer Blog&lt;/a&gt; to get to know more about the latest Virtual Developer developments.&lt;/p&gt;
-&lt;p&gt;Register for free on the &lt;a href=&quot;https://portal.virtual-developer.com/portal/register.xhtml&quot; target=&quot;_blank&quot;&gt;Virtual Developer Portal&lt;/a&gt; to try out generators that are available on the Virtual Developer Platform.&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
-     <pubDate>Thu, 05 Dec 2013 21:54:30 +0000</pubDate>
- <dc:creator>ggmbhke8</dc:creator>
- <guid isPermaLink="false">1351809 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/virtual-developer-modeler#comments</comments>
-  </item>
-  <item>
-    <title>IBM Eclipse Tools for Bluemix</title>
-    <link>http://marketplace.eclipse.org/content/ibm-eclipse-tools-bluemix</link>
-    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/bluemix-for-marketplace_0.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2014-06-30 04:34&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2016-09-16 08:29&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/canderson/listings&quot; title=&quot;Carl Anderson&quot;&gt;Carl Anderson&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Enables rapid deployment and integration of applications with IBM &lt;a href=&quot;https://console.ng.bluemix.net/registration/?cm_mmc=IBMEclipseTools-_-EclipseMarketplace-_-Mars1-_-Registration&quot;&gt;Bluemix&lt;/a&gt; or the Cloud Foundry Clouds, including support for JavaScript and EAR publishing.  &lt;strong&gt;A Java 7 or newer Execution Environment is required.&lt;/strong&gt;  For more information about installing this version of the tools, see &lt;a href=&quot;https://developer.ibm.com/wasdev/downloads/#asset/tools-IBM_Eclipse_Tools_for_Bluemix&quot;&gt;https://developer.ibm.com/wasdev/downloads/#asset/tools-IBM_Eclipse_Tool...&lt;/a&gt;&lt;/p&gt;
-&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
-     <pubDate>Mon, 30 Jun 2014 08:34:39 +0000</pubDate>
- <dc:creator>canderson</dc:creator>
- <guid isPermaLink="false">1774120 at http://marketplace.eclipse.org</guid>
- <comments>http://marketplace.eclipse.org/content/ibm-eclipse-tools-bluemix#comments</comments>
   </item>
   </channel>
 </rss>

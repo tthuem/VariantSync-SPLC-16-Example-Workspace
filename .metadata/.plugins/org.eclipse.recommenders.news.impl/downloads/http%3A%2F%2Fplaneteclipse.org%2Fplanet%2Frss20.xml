@@ -8,6 +8,409 @@
 	<description>Planet Eclipse - http://planeteclipse.org/planet/</description>
 
 <item>
+	<title>JBoss Tools Team: JBoss Tools and Red Hat Developer Studio Maintenance Release for Eclipse Neon</title>
+	<guid isPermaLink="true">http://tools.jboss.org/blog/10.1.0.ga-for-neon.html</guid>
+	<link>http://tools.jboss.org/blog/10.1.0.ga-for-neon.html</link>
+	<description>&lt;div&gt;&lt;div id=&quot;preamble&quot;&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;&lt;a href=&quot;http://tools.jboss.org/downloads/jbosstools/neon/4.4.1.Final.html&quot;&gt;JBoss Tools 4.4.1&lt;/a&gt; and &lt;a href=&quot;http://tools.jboss.org/downloads/devstudio/neon/10.1.0.GA.html&quot;&gt;Red Hat JBoss Developer Studio 10.1&lt;/a&gt; for Eclipse Neon are here waiting for you. Check it out!&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;devstudio10&quot; src=&quot;http://tools.jboss.org/blog/images/devstudio10.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;installation&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#installation&quot;&gt;&lt;/a&gt;Installation&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;JBoss Developer Studio comes with everything pre-bundled in its installer. Simply download it from our &lt;a href=&quot;https://www.jboss.org/products/devstudio.html&quot;&gt;JBoss Products page&lt;/a&gt; and run it like this:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;literalblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;pre&gt;java -jar jboss-devstudio-&amp;lt;installername&amp;gt;.jar&lt;/pre&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;JBoss Tools or Bring-Your-Own-Eclipse (BYOE) JBoss Developer Studio require a bit more:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;This release requires at least Eclipse 4.6 (Neon) but we recommend
+      using the latest &lt;a href=&quot;http://www.eclipse.org/downloads/packages/eclipse-ide-java-ee-developers/neonr&quot;&gt;Eclipse 4.6 Neon JEE Bundle&lt;/a&gt; since then you get most of the dependencies preinstalled.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Once you have installed Eclipse, you can either find us on the Eclipse Marketplace under &quot;JBoss Tools&quot; or &quot;Red Hat JBoss Developer Studio&quot;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;For JBoss Tools, you can also use our update site directly.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;literalblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;pre&gt;http://download.jboss.org/jbosstools/neon/stable/updates/&lt;/pre&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;what-is-new&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#what-is-new&quot;&gt;&lt;/a&gt;What is new?&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Our main focus for this release was improvements for container based development and bug fixing.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;improved-openshift-3-and-docker-tools&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#improved-openshift-3-and-docker-tools&quot;&gt;&lt;/a&gt;Improved OpenShift 3 and Docker Tools&lt;/h3&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;We continue to work on providing better experience for container based development in JBoss Tools and Developer Studio. Let’s go through a few interesting updates here.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;support-for-container-labels&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#support-for-container-labels&quot;&gt;&lt;/a&gt;Support for Container Labels&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Users can now specify labels when running a container.
+      The labels are saved in the launch configuration and can also be edited before relaunching the container.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;Container Labels&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/docker/images/docker_neon1_sprint118/container_labels.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;automatically-detect-known-docker-daemon-connections&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#automatically-detect-known-docker-daemon-connections&quot;&gt;&lt;/a&gt;Automatically detect known Docker daemon connections&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;When the Docker Explorer view is opened, the list of existing connections (saved from a previous session) is reloaded.
+      In addition to this behaviour, the view will also attempt to find new connections using default settings such
+      the &amp;amp;aposunix:///var/run/docker.sock&amp;amp;apos Unix socket or the &amp;amp;aposDOCKER_HOST&amp;amp;apos, &amp;amp;aposDOCKER_CERT_PATH&amp;amp;apos and &amp;amp;aposDOCKER_TLS_VERIFY&amp;amp;apos environment
+      variables. This means that by default, in a new workspace, if a Docker daemon is reachable using one of those methods, the
+      user does not have to use the &quot;New Connection&quot; wizard to get a connection.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;extension-point-for-docker-daemon-connection-settings&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#extension-point-for-docker-daemon-connection-settings&quot;&gt;&lt;/a&gt;Extension point for Docker daemon connection settings&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;An extension point has been added to the Docker core plugin to allow for custom connection settings provisionning.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;support-for-docker-compose&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#support-for-docker-compose&quot;&gt;&lt;/a&gt;Support for Docker Compose&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Support for Docker Compose has finally landed !&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Users can select a &lt;code&gt;docker-compose.yml&lt;/code&gt; file and start Docker Compose from the
+      context menu, using the &lt;code&gt;Run &amp;gt; Docker Compose&lt;/code&gt; launcher shortcut.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The Docker Compose process displays it logs (with support for text coloring based on ANSI escape codes)
+      and provides a &lt;code&gt;stop&lt;/code&gt; button to stop the underlying process.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;Docker Compose&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/docker/images/docker_neon1_sprint119/docker_compose.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Also, as with the support for building and running containers, a launch configuration is created after the
+      first call to Docker Compose on the selected &lt;code&gt;docker-compose.yml&lt;/code&gt; file.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;docker-image-hierarchy-view-improvements&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#docker-image-hierarchy-view-improvements&quot;&gt;&lt;/a&gt;Docker Image Hierarchy View Improvements&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The new Docker Image Hierarchy view not only shows the relationships between
+      images (which is particularly interesting when an image is built using a Dockerfile),
+      but it also includes containers based on the images in the tree view
+      while providing with all relevant commands (in the context menu) for containers and images.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;Docker Image Hierarchy View&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/docker/images/docker_neon1_sprint119/docker_image_hierarch_view.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;server-templates-can-now-be-displayed-edited&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#server-templates-can-now-be-displayed-edited&quot;&gt;&lt;/a&gt;Server templates can now be displayed / edited&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Server templates are now displayed in the property view under the &lt;code&gt;Templates&lt;/code&gt; tab:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;property view template&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/property-view-template.png&quot; width=&quot;600&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;You can access/edit the content of the template with the &lt;code&gt;Edit&lt;/code&gt; command.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;events-can-now-be-displayed&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#events-can-now-be-displayed&quot;&gt;&lt;/a&gt;Events can now be displayed&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Events generated as part of the application livecycle are now displayed in the property view under the &lt;code&gt;Events&lt;/code&gt; tab (available at the project level):&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;property view event&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/property-view-event.png&quot; width=&quot;600&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;You can refresh the content of the event with the &lt;code&gt;Refresh&lt;/code&gt; command or open the event in the OpenShift web console with the &lt;code&gt;Show In → Web Console&lt;/code&gt; command.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;volume-claims-can-now-be-displayed&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#volume-claims-can-now-be-displayed&quot;&gt;&lt;/a&gt;Volume claims can now be displayed&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Volume claims are now displayed in the property view under the &lt;code&gt;Storage&lt;/code&gt; tab (available at the project level):&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;property view storage1&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/property-view-storage1.png&quot; width=&quot;600&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;You can create a new volume claim using a resource file like the following:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;listingblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;pre class=&quot;prettyprint highlight&quot;&gt;&lt;code class=&quot;language-json&quot;&gt;{
+          &quot;apiVersion&quot;: &quot;v1&quot;,
+          &quot;kind&quot;: &quot;PersistentVolumeClaim&quot;,
+          &quot;metadata&quot;: {
+              &quot;name&quot;: &quot;claim1&quot;
+          },
+          &quot;spec&quot;: {
+              &quot;accessModes&quot;: [ &quot;ReadWriteOnce&quot; ],
+              &quot;resources&quot;: {
+                  &quot;requests&quot;: {
+                      &quot;storage&quot;: &quot;1Gi&quot;
+                  }
+              }
+          }
+      }&lt;/code&gt;&lt;/pre&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;If you deploy such a resource file with the &lt;code&gt;New → Resource&lt;/code&gt; command at the project level, the &lt;code&gt;Storage&lt;/code&gt; tab will be updated:&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;property view storage2&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/openshift/images/property-view-storage2.png&quot; width=&quot;600&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;You can access/edit the content of the volume claim with the &lt;code&gt;Edit&lt;/code&gt; command or open the volume claim in the OpenShift web console with the &lt;code&gt;Show In → Web Console&lt;/code&gt; command.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;server-tools&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#server-tools&quot;&gt;&lt;/a&gt;Server Tools&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;quickfixes-now-available-in-runtime-detection&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#quickfixes-now-available-in-runtime-detection&quot;&gt;&lt;/a&gt;QuickFixes now available in runtime detection&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Runtime detection has been a feature of JBossTools for a long while, however, it would sometimes create runtime and server adapters with configuration errors without alerting the user. Now, the user will have an opportunity to execute quickfixes before completing the creation of their runtimes and servers.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;JBIDE 15189 rt detect 1&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/server/images/JBIDE-15189_rt_detect_1.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;To see this in action, we can first open up the runtime-detection preference page. We can see that our runtime-detection will automatically search three paths for valid runtimes of any type.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;JBIDE 15189 rt detect 2&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/server/images/JBIDE-15189_rt_detect_2.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Once we click search, the runtime-detection’s search dialog appears, with results it has found. In this case, it has located an EAP 6.4 and an EAP 7.0 installation. However, we can see that both have errors. If we click on the error column for the discovered EAP 7.0, the error is expanded, and we see that we’re missing a valid / compatible JRE. To fix the issue, we should click on this item.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;JBIDE 15189 rt detect 3&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/server/images/JBIDE-15189_rt_detect_3.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;When we click on the problem for EAP 7, the new JRE dialog appears, allowing us to add a compatible JRE. The dialog helpfully informs us of what the restrictions are for this specific runtime. In this case, we’re asked to define a JRE with a minimum version of Java-8.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;JBIDE 15189 rt detect 4&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/server/images/JBIDE-15189_rt_detect_4.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;If we continue along with the process by locating and adding a Java 8 JRE, as shown above, and finish the dialog, we’ll see that all the errors will disappear for both runtimes. In this example, the EAP 6.4 required a JRE of Java 7 or higher. The addition of the Java 8 JRE fixed this issue as well.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;JBIDE 15189 rt detect 5&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/server/images/JBIDE-15189_rt_detect_5.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Hopefully, this will help users preemptively discover and fix errors before being hit with surprising errors when trying to use the created server adapters.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;support-for-wildfly-10-1&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#support-for-wildfly-10-1&quot;&gt;&lt;/a&gt;Support for WildFly 10.1&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The WildFly 10.0 Server adapter has been renamed to WildFly 10.x. It has been tested and verified to work for WildFly 10.1 installations.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;hibernate-tools&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#hibernate-tools&quot;&gt;&lt;/a&gt;Hibernate Tools&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;hibernate-runtime-provider-updates&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#hibernate-runtime-provider-updates&quot;&gt;&lt;/a&gt;Hibernate Runtime Provider Updates&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;A number of additions and updates have been performed on the available Hibernate runtime  providers.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;new-hibernate-5-2-runtime-provider&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#new-hibernate-5-2-runtime-provider&quot;&gt;&lt;/a&gt;New Hibernate 5.2 Runtime Provider&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;With final releases available in the Hibernate 5.2 stream, the time was right to make available a corresponding Hibernate 5.2 runtime provider. This runtime provider incorporates Hibernate Core version 5.2.2.Final and Hibernate Tools version 5.2.0.Beta1.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot; style=&quot;text-align: center;&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;hibernate 5 2&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/hibernate/images/4.4.1.Final/hibernate_5_2.png&quot; width=&quot;381&quot; /&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;title&quot;&gt;Figure 1. Hibernate 5.2 is available&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect4&quot;&gt;
+      &lt;h5 id=&quot;other-runtime-provider-updates&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#other-runtime-provider-updates&quot;&gt;&lt;/a&gt;Other Runtime Provider Updates&lt;/h5&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The Hibernate 4.3 runtime provider now incorporates Hibernate Core version 4.3.11.Final and Hibernate Tools version 4.3.5.Final.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The Hibernate 5.0 runtime provider now incorporates Hibernate Core version 5.0.10.Final and Hibernate Tools version 5.0.2.Final.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The Hibernate 5.1 runtime provider now incorporates Hibernate Core version 5.1.1.Final and Hibernate Tools version 5.1.0.CR1.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;forge-tools&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#forge-tools&quot;&gt;&lt;/a&gt;Forge Tools&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;added-install-addon-from-the-catalog-command&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#added-install-addon-from-the-catalog-command&quot;&gt;&lt;/a&gt;Added Install addon from the catalog command&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;From Forge 3.3.0.Final onwards it is now possible to query and install addons listed in the &lt;a href=&quot;http://forge.jboss.org/addons&quot;&gt;Forge addons page&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;addon install from catalog&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/forge/images/4.4.1.AM3/addon-install-from-catalog.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;forge-runtime-updated-to-3-3-1-final&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#forge-runtime-updated-to-3-3-1-final&quot;&gt;&lt;/a&gt;Forge Runtime updated to 3.3.1.Final&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The included Forge runtime is now 3.3.1.Final. Read the official announcement &lt;a href=&quot;http://forge.jboss.org/news/jboss-forge-3.3.1.final-is-here&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;imageblock&quot;&gt;
+      &lt;div class=&quot;content&quot;&gt;
+      &lt;img alt=&quot;startup&quot; src=&quot;http://tools.jboss.org/documentation/whatsnew/forge/images/4.4.1.Final/startup.png&quot; /&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect2&quot;&gt;
+      &lt;h3 id=&quot;freemarker&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#freemarker&quot;&gt;&lt;/a&gt;Freemarker&lt;/h3&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;freemarker-2-3-25&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#freemarker-2-3-25&quot;&gt;&lt;/a&gt;Freemarker 2.3.25&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Freemarker library included in the Freemarker IDE was updated to latest available version 2.3.25.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;flth-fltx-file-extensions-added&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#flth-fltx-file-extensions-added&quot;&gt;&lt;/a&gt;flth / fltx file extensions added&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The new flth and fltx extensions have been added and associated with Freemarker IDE. &lt;code&gt;flth&lt;/code&gt; stands for HTML content whereas &lt;code&gt;fltx&lt;/code&gt; stands for XML content.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;overhaul-of-the-plugin-template-parser&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#overhaul-of-the-plugin-template-parser&quot;&gt;&lt;/a&gt;Overhaul of the plugin template parser&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The parser that FreeMarker IDE uses to extract IDE-centric information
+      (needed for syntax highlighting, related tag highlighting,
+      auto-completion, outline view, etc.) was overhauled. Several bugs were
+      fixed, and support for the newer template language features were
+      added. Also, the syntax highlighting is now more detailed inside
+      expressions.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;related-tag-background-highlighting-fixed&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#related-tag-background-highlighting-fixed&quot;&gt;&lt;/a&gt;Related tag background highlighting fixed&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Fixed the issue when the (by default) yellow highlighting of the
+      related FTL tags shift away from under the tag as you type.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;showing-whitespace-block-selection-mode&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#showing-whitespace-block-selection-mode&quot;&gt;&lt;/a&gt;Showing whitespace, block selection mode&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;The standard &quot;Show whitespace characters&quot; and &quot;Toggle block selection
+      mode&quot; icons are now available when editing a template.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;improved-automatic-finishing-of-freemarker-constructs&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#improved-automatic-finishing-of-freemarker-constructs&quot;&gt;&lt;/a&gt;Improved automatic finishing of FreeMarker constructs&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;When you type &lt;code&gt;&amp;lt;#&lt;/code&gt;, &lt;code&gt;&amp;lt;@&lt;/code&gt;, &lt;code&gt;${&lt;/code&gt;, &lt;code&gt;#{&lt;/code&gt; and &lt;code&gt;&amp;lt;#--&lt;/code&gt; the freemarker editor now automatically closes them.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;error-positions-links-on-the-console&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#error-positions-links-on-the-console&quot;&gt;&lt;/a&gt;Error positions links on the console&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;When a FreeMarker exception is printed to the console, the error
+      position in it is a link that navigates to the error. This has worked
+      long ago, but was broken for quite a while.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;fixed-auto-indentation&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#fixed-auto-indentation&quot;&gt;&lt;/a&gt;Fixed auto-indentation&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;When hitting enter, sometimes the new line haven’t inherited the
+      indentation of the last line.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect3&quot;&gt;
+      &lt;h4 id=&quot;updated-the-database-used-for-auto-completion&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#updated-the-database-used-for-auto-completion&quot;&gt;&lt;/a&gt;Updated the &quot;database&quot; used for auto completion&lt;/h4&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Auto completion now knows all directives and &quot;built-ins&quot; up to
+      FreeMarker 2.3.25.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;sect1&quot;&gt;
+      &lt;h2 id=&quot;what-is-next&quot;&gt;&lt;a class=&quot;anchor&quot; href=&quot;http://tools.jboss.org/blog/news.atom#what-is-next&quot;&gt;&lt;/a&gt;What is next?&lt;/h2&gt;
+      &lt;div class=&quot;sectionbody&quot;&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Having JBoss Tools 4.4.1 and Developer Studio 10.1 out we are already working on the next maintenance release for Eclipse Neon.1.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Enjoy!&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;paragraph&quot;&gt;
+      &lt;p&gt;Jeff Maury&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;/div&gt;&lt;/div&gt;</description>
+	<pubDate>Wed, 21 Sep 2016 16:04:52 +0000</pubDate>
+</item>
+<item>
+	<title>Christian Pontesegger: Native browser for GTK on linux</title>
+	<guid isPermaLink="false">tag:blogger.com,1999:blog-3460102793186140898.post-7382841941705793523</guid>
+	<link>http://codeandme.blogspot.com/2016/09/native-browser-for-gtk-on-linux.html</link>
+	<description>Having support for the internal browser is often not working out of the box on linux. You can check the status by opening your Preferences/General/Web Browser settings. If the radio button Use internal  web browser is enabled (not necessarily activated) internal browser support is working, otherwise not.&lt;br /&gt;&lt;br /&gt;Most annoyingly without internal browser support help hovers in your text editors use a fallback mode not rendering links or images.&lt;br /&gt;&lt;br /&gt;To solve this issue you may first check the &lt;a href=&quot;https://www.eclipse.org/swt/faq.php&quot; target=&quot;_blank&quot;&gt;SWT FAQ&lt;/a&gt;. For me working on gentoo linux the following command fixed the problem:&lt;br /&gt;&lt;pre class=&quot;brush: java&quot;&gt;emerge net-libs/webkit-gtk:2&lt;/pre&gt;It is important to not only install the latest version of webkit-gtk which will not be recognized by Eclipse. After installation restart eclipse and your browser should work. Verified on Eclipse Neon.</description>
+	<pubDate>Wed, 21 Sep 2016 09:14:56 +0000</pubDate>
+	<author>noreply@blogger.com (Christian Pontesegger)</author>
+</item>
+<item>
 	<title>Geniutec: Creating My First Web App with Angular 2 in Eclipse</title>
 	<guid isPermaLink="false">https://www.genuitec.com/?p=496768</guid>
 	<link>https://www.genuitec.com/first-angular-2-app/</link>
@@ -673,115 +1076,6 @@ mvn &lt;span class=&quot;hljs-keyword&quot;&gt;package&lt;/span&gt; &lt;span cla
 &lt;p&gt;Perhaps you’re asking “&lt;em&gt;And what about your BlackBerry 10 Development, ekke ?&lt;/em&gt;”&lt;/p&gt;
 &lt;p&gt;Nothing has changed – I’m still developing business Apps for BlackBerry 10 – and the good thing: I can re-use most of the C++ / Qt Code for Android / iOS / W10&lt;img alt=&quot;🙂&quot; class=&quot;wp-smiley&quot; src=&quot;https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/1f642.png&quot; style=&quot;height: 1em;&quot; /&gt; Also App Architecture and events (Qt SIGNALS – SLOTS concept) are similar.&lt;/p&gt;&lt;br /&gt;Filed under: &lt;a href=&quot;https://ekkescorner.wordpress.com/category/bb10/&quot;&gt;BB10&lt;/a&gt;, &lt;a href=&quot;https://ekkescorner.wordpress.com/category/bb10/c/&quot;&gt;C++&lt;/a&gt;, &lt;a href=&quot;https://ekkescorner.wordpress.com/category/bb10/cascades/&quot;&gt;Cascades&lt;/a&gt;, &lt;a href=&quot;https://ekkescorner.wordpress.com/category/mobile/&quot;&gt;mobile&lt;/a&gt;, &lt;a href=&quot;https://ekkescorner.wordpress.com/category/qt/&quot;&gt;Qt&lt;/a&gt;  &lt;img alt=&quot;&quot; border=&quot;0&quot; height=&quot;1&quot; src=&quot;https://pixel.wp.com/b.gif?host=ekkescorner.wordpress.com&amp;amp;blog=7691743&amp;amp;post=4333&amp;amp;subd=ekkescorner&amp;amp;ref=&amp;amp;feed=1&quot; width=&quot;1&quot; /&gt;</description>
 	<pubDate>Sun, 04 Sep 2016 15:59:53 +0000</pubDate>
-</item>
-<item>
-	<title>Benjamin Cabe: IoT Programming Workshops</title>
-	<guid isPermaLink="false">https://blog.benjamin-cabe.com/?p=2674</guid>
-	<link>http://feedproxy.google.com/~r/benjamin-cabe-planet-eclipse/~3/EXX1nF49cs4/iot-programming-workshops</link>
-	<description>&lt;p&gt;Over the past two years, I’ve delivered several &lt;strong&gt;training sessions and workshops about IoT Programming&lt;/strong&gt;. Depending on the audience and their background, those sessions have been either one-day or two-day long.&lt;/p&gt;
-&lt;p&gt;As you probably know, IoT is really broad, and one needs to be familiar with all the pieces involved in an IoT solution to be able to design and build an efficient IoT solution. For example, I strongly believe that every software developer building an IoT solution today needs to care about the hardware, which is why the workshop starts with a pretty extensive &lt;strong&gt;overview of the hardware landscape&lt;/strong&gt;, and goes through things like the &lt;strong&gt;different classes of IoT devices&lt;/strong&gt; that may exist (from micro-controllers to powerful system-on-chips, when should you use one or the other?), to the different kinds of sensors, before moving on to the &lt;strong&gt;communication protocols&lt;/strong&gt; suited for IoT (like MQTT or CoAP).&lt;/p&gt;
-&lt;p&gt;The training includes &lt;strong&gt;many hands-on sessions&lt;/strong&gt;, and the participants get a chance to learn first-hand how to master the MQTT protocol (using Eclipse Paho), how to program IoT gateways, or how to build IoT visualizations.&lt;/p&gt;
-&lt;p&gt;The overall outline is the following, and can be adapted on a case-by-case basis, depending on the trainees’ expectations:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Introduction to the Internet of Things&lt;/li&gt;
-&lt;li&gt;Sensing and acting on the physical world: micro-controllers or powerful gateways?
-&lt;ol&gt;
-&lt;li&gt;What can be sensed and acted upon?&lt;/li&gt;
-&lt;li&gt;Overview of sensors and actuators technologies&lt;/li&gt;
-&lt;li&gt;Making an intelligent object
-&lt;ol&gt;
-&lt;li&gt;Different classes of devices for different needs&lt;/li&gt;
-&lt;li&gt;Interacting with sensors and actuators&lt;/li&gt;
-&lt;li&gt;Overview of IoT operating systems and frameworks.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;Connecting things, or how to build efficient and scalable sensor networks
-&lt;ol&gt;
-&lt;li&gt;Constraints of IoT Communications&lt;/li&gt;
-&lt;li&gt;Overview of different topologies for IoT networks&lt;/li&gt;
-&lt;li&gt;IoT Communication protocols
-&lt;ol&gt;
-&lt;li&gt;MQTT – Eclipse Paho, Eclipse Mosquitto&lt;/li&gt;
-&lt;li&gt;CoAP – Eclipse Californium&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;Managing IoT solutions
-&lt;ol&gt;
-&lt;li&gt;IoT Gateways – Eclipse Kura&lt;/li&gt;
-&lt;li&gt;Device Management &amp;amp; Software Provisioning – Eclipse Leshan, Eclipse hawkBit&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;strong&gt;If you are interested in participating to similar workshops in the future, either for yourself or for your company, &lt;a href=&quot;https://blog.benjamin-cabe.com/contact&quot;&gt;please get in touch&lt;/a&gt;!&lt;/strong&gt;&lt;/p&gt;
-&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;http://feeds.feedburner.com/~r/benjamin-cabe-planet-eclipse/~4/EXX1nF49cs4&quot; width=&quot;1&quot; /&gt;</description>
-	<pubDate>Fri, 02 Sep 2016 08:58:30 +0000</pubDate>
-</item>
-<item>
-	<title>Cedric Brun: ⦏Breaking News Eclipse Sirius⦎ SiriusCon 2016 is coming!</title>
-	<guid isPermaLink="false">http://cedric.brun.io/eclipse/siriuscon-is-coming</guid>
-	<link>http://cedric.brun.io/eclipse/siriuscon-is-coming/</link>
-	<description>&lt;p&gt;The team is not only polishing Sirius 4.1.0 which is planned for the end of September, but also preparing for the ultimate event for the Sirius community aka &lt;a href=&quot;http://www.siriuscon.org/&quot;&gt;SiriusCon&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;We organized the first edition last year with the help of the Eclipse Fundation: a one-day free event with two tracks filled with highly specialized talks and sessions dedicated to discovery. It looks like we stroke a right balance and feedback was excellent for the first edition.  It is with excitement and anticipation that we are preparing SiriusCon 2016 based on the same fundamentals:&lt;/p&gt;
-
-&lt;h3 id=&quot;paris&quot;&gt;Paris&lt;/h3&gt;
-
-&lt;figure&gt;
-    &lt;a href=&quot;http://cedric.brun.io/images/blog/siriuscon/venue.jpg&quot;&gt;&lt;img src=&quot;http://cedric.brun.io/images/blog/siriuscon/venue.jpg&quot; /&gt;&lt;/a&gt;    
-    
-&lt;/figure&gt;
-
-&lt;p&gt;An international event in one of the most beautiful city in the world: Paris. That’s a pleasure to gather in such a central venue and this makes the event &lt;strong&gt;really easy to come to&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;strong-content&quot;&gt;Strong content&lt;/h3&gt;
-
-&lt;figure&gt;
-    &lt;a href=&quot;http://cedric.brun.io/images/blog/siriuscon/talks.jpg&quot;&gt;&lt;img src=&quot;http://cedric.brun.io/images/blog/siriuscon/talks.jpg&quot; /&gt;&lt;/a&gt;    
-    
-&lt;/figure&gt;
-
-&lt;p&gt;I’s only one day but it is filled with 30 minutes sessions:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;exclusive content from the Sirius team tackling subjects related to best practices, the project roadmap or integration with other technologies from the Eclipse Ecosystem&lt;/li&gt;
-  &lt;li&gt;presentations from the user community, being use cases, testimonies, experiments or other cool stuff. The 2015 edition featured talks from Etas (Bosch), Airbus, Covéa, Thales and other eminent organizations (There is only one week left til the end of the call for paper, submit your proposal at &lt;a href=&quot;http://cedric.brun.io/mailto:siriuscon@obeo.fr!&quot;&gt;siriuscon@obeo.fr&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;session focused on discovering the technology with tutorials and presentations of the latest features!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;the-sirius-clinic-and-tutorials&quot;&gt;The Sirius Clinic and Tutorials&lt;/h3&gt;
-
-&lt;figure&gt;
-    &lt;a href=&quot;http://cedric.brun.io/images/blog/siriuscon/clinic.jpg&quot;&gt;&lt;img src=&quot;http://cedric.brun.io/images/blog/siriuscon/clinic.jpg&quot; /&gt;&lt;/a&gt;    
-    
-&lt;/figure&gt;
-
-&lt;p&gt;Come with your laptop and book a timeslot with a Sirius commiter: you will get feedback on your projects or solve any Sirius related issue you face. It’s been highly appreciated by the attendees last year, make sure you take this opportunity to boost your project or experiment !&lt;/p&gt;
-
-&lt;p&gt;You never used Sirius? We also got you covered with a beginner tutorial in the afternoon, you will see how the technology works and how to leverage it efficiently and easily. It is followed by a new tutorial covering more advanced features and the brand new support for dynamic property views.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-discussions&quot;&gt;The discussions&lt;/h3&gt;
-
-&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p dir=&quot;ltr&quot; lang=&quot;en&quot;&gt;Lunch time at &lt;a href=&quot;https://twitter.com/hashtag/SiriusCon?src=hash&quot;&gt;#SiriusCon&lt;/a&gt;! A break before afternoon technical sessions and tutorial &lt;a href=&quot;https://t.co/962sWI5kXI&quot;&gt;pic.twitter.com/962sWI5kXI&lt;/a&gt;&lt;/p&gt;— Frédéric Madiot (@fmadiot) &lt;a href=&quot;https://twitter.com/fmadiot/status/672386048484339712&quot;&gt;3 décembre 2015&lt;/a&gt;&lt;/blockquote&gt;
-
-
-&lt;p&gt;And of course as the value of such event is also all the discussions you will have, friendly breaks and buffet lunch featuring awesome french food!&lt;/p&gt;
-
-&lt;h3 id=&quot;a-free-event&quot;&gt;A free event&lt;/h3&gt;
-
-&lt;p&gt;At last but not least the event is once again free, but although it’s free, &lt;strong&gt;book early as the number of places is limited to 130 seats!&lt;/strong&gt; Also note that it is scheduled slightly sooner than last year; on the November 15th, save the date and &lt;a href=&quot;http://www.siriuscon.org/register.php&quot;&gt;register using this web form&lt;/a&gt;!&lt;/p&gt;
-
-&lt;p&gt;I’m looking forward to see you there!&lt;/p&gt;
-
-
-
-
-    &lt;p&gt;&lt;a href=&quot;http://cedric.brun.io/eclipse/siriuscon-is-coming/&quot;&gt;⦏Breaking News Eclipse Sirius⦎ SiriusCon 2016 is coming!&lt;/a&gt; was originally published by Cédric Brun at &lt;a href=&quot;http://cedric.brun.io&quot;&gt;CTO @ Obeo&lt;/a&gt; on September 02, 2016.&lt;/p&gt;</description>
-	<pubDate>Fri, 02 Sep 2016 00:00:00 +0000</pubDate>
-	<author>cedric.brun@obeo.fr (Cédric Brun)</author>
 </item>
 
 </channel>
