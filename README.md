@@ -22,7 +22,7 @@ The following instructions are a guide for this example.
    * Compare variants `C` and `E` with the Eclipse compare view.
    * Open the `Notepad.java` in variant `E`.
    * Synchronize the variants with the source-focused view.
-   * Look at line 331 of the `Notepad.java` in variant `E`
+   * Look at the corresponding line of the `Notepad.java` in variant `E`
 7. Third example:
    * Set the context to `Undo`.
    * Open the `UndoAction.java` in variant `E`.
