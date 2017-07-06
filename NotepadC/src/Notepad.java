@@ -328,7 +328,7 @@ class  Notepad  extends JFrame {
 	
 		JToolBar toolBar = buildToolBar();
 		if (toolBar.getComponentCount() > 0) {
-			getContentPane().add("South", toolBar);
+			getContentPane().add("North", toolBar);
 		}
 	
 		//get the graphical user interface components display area
