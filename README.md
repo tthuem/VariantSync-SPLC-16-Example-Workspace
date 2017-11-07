@@ -12,27 +12,34 @@ The following instructions are a guide for this example.
 3. Create a new configuration `NotepadH` with the following features: `FormatRaw`, `Undo`
 4. Add the VariantSync tool support to the already existing variant `NotepadH`
 5. First example:
-   * Set the context to `TextStyled`.
-   * Open the `Notepad.java` in variant `B`. 
-   * After line 252, add a new line with the following content: ``textPane.setText("Hello VariantSync users")``
+   * Start the recording with context `TextStyled`.
+   * Open the `Notepad.java` in variant `B`.
+   * After line 252, add a new line with the following content: ``textPane.setText("Hello VariantSync users")``.
+   * Save the file.
+   * Run variant `B` to see the result of the change.
+   * Open the Configuration Map. You will see that no other Variant implements `TextStyled`.
+   * Open the Resource Changes View. You will see no other targets for the change.
 6. Second example:
-   * Set the context to `Toolbar`.
+   * Switch the context to `Toolbar`.
    * Open the `Notepad.java` in variant `C`.
-   * In line 331, change the string `North` to `South`.
+   * In line 331, change the string `North` to `South` and save the file.
+   * Run variant `C` to see the result of the change.
    * Compare variants `C` and `E` with the Eclipse compare view.
    * Open the `Notepad.java` in variant `E`.
    * Synchronize the variants with the source-focused view.
    * Look at the corresponding line of the `Notepad.java` in variant `E`
 7. Third example:
-   * Set the context to `Undo`.
+   * Switch the context to `Undo`.
    * Open the `UndoAction.java` in variant `E`.
-   * Change the super call in the constructor from `Undo` to `Undo Edit`.
-   * Synchronize the variants with the source-focused view.
-   * Look at the results in e.g. variants `A`,`C`,`F` (you can see all configurations implementing a feature in the configuration map of FeatureIDE)
+   * Change the super call in the constructor from `Undo` to `Undo Edit` and save the file.
+   * Run variant `E` to see the result of the change.
+   * Synchronize the variants `A`, `C` and `F` with the source-focused view.
+   * Look at the results in variants `A`,`C`,`F`.
 8. Fourth example:
-   * Set the context to `Base`
-   * Open the `Notepad.java` in any variant.
-   * In line 306, change the value `300` to `400`.
-   * Synchronize the variants with the source-focused view.
-   * Look at the results in variants with and without merge conflicts.
+   * Switch the context to `Base`
+   * Open the `Notepad.java` in variant `A`.
+   * In line 153, change the value `300` to `400`, save the file and stop recording.
+   * Run variant `A` to see the result of the change.
+   * Synchronize the variant `H` with the target-focused view.
+   * Look at the results in variant `H`.
  
