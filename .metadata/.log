@@ -2326,3 +2326,9 @@ java.net.SocketTimeoutException: Read timed out
 	at com.google.common.util.concurrent.AbstractIdleService$DelegateService$1.run(AbstractIdleService.java:62)
 	at com.google.common.util.concurrent.Callables$4.run(Callables.java:122)
 	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY de.tubs.variantsync.core 1 0 2019-08-07 13:00:56.447
+!MESSAGE Found configuration project with name: variantsyncFeatureInfo
+
+!ENTRY org.eclipse.core.resources 2 10035 2019-08-07 13:02:39.945
+!MESSAGE The workspace will exit with unsaved changes in this session.
