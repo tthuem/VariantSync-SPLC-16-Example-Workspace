@@ -14,7 +14,7 @@
 				</dictionary>
 				<dictionary>
 					<key>composer</key>
-					<value>de.ovgu.featureide.core.FeatureModeling</value>
+					<value>de.tubs.variantsync.core.composer</value>
 				</dictionary>
 				<dictionary>
 					<key>equations</key>
