@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 	<contexts>
-		<context highlighter="Yellow" name="Notepad"/>
-		<context highlighter="Yellow" name="MenuBar"/>
+		<context highlighter="Red" name="Notepad"/>
+		<context highlighter="Orange" name="MenuBar"/>
 		<context highlighter="Yellow" name="Text"/>
-		<context highlighter="Yellow" name="Undo"/>
-		<context highlighter="Yellow" name="TextRaw"/>
-		<context highlighter="Yellow" name="Base"/>
-		<context highlighter="Yellow" name="Print"/>
-		<context highlighter="Yellow" name="Format"/>
-		<context highlighter="Yellow" name="TextStyled"/>
-		<context highlighter="Yellow" name="Find"/>
-		<context highlighter="Yellow" name="ToolBar"/>
-		<context highlighter="Yellow" name="FullStyled"/>
+		<context highlighter="Dark Green" name="Undo"/>
+		<context highlighter="Light Green" name="TextRaw"/>
+		<context highlighter="Cyan" name="Base"/>
+		<context highlighter="Light Gray" name="Print"/>
+		<context highlighter="Blue" name="Format"/>
+		<context highlighter="Magenta" name="TextStyled"/>
+		<context highlighter="Pink" name="Find"/>
+		<context highlighter="Red" name="ToolBar"/>
+		<context highlighter="Orange" name="FullStyled"/>
 		<context highlighter="Yellow" name="Clipboard"/>
-		<context highlighter="Yellow" name="FormatStyled"/>
-		<context highlighter="Yellow" name="FormatRaw"/>
-		<context highlighter="Yellow" name="File"/>
+		<context highlighter="Dark Green" name="FormatStyled"/>
+		<context highlighter="Light Green" name="FormatRaw"/>
+		<context highlighter="Cyan" name="File"/>
 	</contexts>
