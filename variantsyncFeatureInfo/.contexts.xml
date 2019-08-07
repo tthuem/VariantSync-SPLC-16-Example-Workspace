@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+	<contexts>
+		<context highlighter="Yellow" name="Notepad"/>
+		<context highlighter="Yellow" name="MenuBar"/>
+		<context highlighter="Yellow" name="Text"/>
+		<context highlighter="Yellow" name="Undo"/>
+		<context highlighter="Yellow" name="TextRaw"/>
+		<context highlighter="Yellow" name="Base"/>
+		<context highlighter="Yellow" name="Print"/>
+		<context highlighter="Yellow" name="Format"/>
+		<context highlighter="Yellow" name="TextStyled"/>
+		<context highlighter="Yellow" name="Find"/>
+		<context highlighter="Yellow" name="ToolBar"/>
+		<context highlighter="Yellow" name="FullStyled"/>
+		<context highlighter="Yellow" name="Clipboard"/>
+		<context highlighter="Yellow" name="FormatStyled"/>
+		<context highlighter="Yellow" name="FormatRaw"/>
+		<context highlighter="Yellow" name="File"/>
+	</contexts>
