@@ -17,7 +17,7 @@ You might want to switch to the VariantSync perspective to open all necessary wi
 5. First example:
    * Set the context to `TextStyled` and start recording.
    * Open the `Notepad.java` in variant B. 
-   * After line 252, add a new line with the following content: ``textPane.setText("Hello VariantSync users")``.
+   * After line 252, add a new line with the following content: ``textPane.setText("Hello VariantSync users");``.
      When saving the file you will see the line annotated with feature `TextStyled`.
      As variant B is the only feature implementing this feature (visible in the `Configuration Map`) no synchronization has to be performed.
    * Stop recording.
@@ -34,11 +34,11 @@ You might want to switch to the VariantSync perspective to open all necessary wi
    * Open the `UndoAction.java` in variant `E`.
    * Change the super call in the constructor from `Undo` to `Undo Edit`.
    * Synchronize the variants with the source-focused view.
-   * Look at the results in e.g. variants `A`,`C`,`F` (you can see all configurations implementing a feature in the configuration map of FeatureIDE)
+   * Look at the results in variants `A`,`C`, and `F` (As NotepadH does not have feature `MenuBar` the change is not visible in the application). You can see all configurations implementing a feature in the configuration map of FeatureIDE.
 8. Fourth example:
    * Set the context to `Base` and start recording.
    * Open the `Notepad.java` in any variant.
-   * In line 306, change the value `300` to `400`.
+   * In the constructor, change the value `300` to `400`.
    * Synchronize the variants with the source-focused view.
    * Look at the results in variants with and without merge conflicts.
  
