@@ -49,9 +49,12 @@ To reproduce the screencasts dedicated branches are available when a certain set
 - [Video 2 (Setting-Up Legacy Clones for Synchronization)][4]: Please checkout the branch `screencast_video2`. At the end of the video you will see the project in a state like in the `master` branch.
 - [Video 3 (Recording Feature Mappings During Clone Evolution)][5]: You can use the `master` branch to reproduce this scenario.
 - [Video 4 (Change Synchronization into Multiple Clones)][6]: Please checkout the branch `screencast_video4`.
+- [Video 5 (Change Synchronization from Multiple Clones)][7]: Please checkout the branch `screencast_video5`.
 
 [1]: https://github.com/tthuem/VariantSync
 [2]: https://www.youtube.com/playlist?list=PLBZnGZWZgEBZ8Me6WDQGdQRg438_Z4sl_
 [3]: https://www.youtube.com/watch?v=JMIDvWYvaR0&list=PLBZnGZWZgEBZ8Me6WDQGdQRg438_Z4sl_&index=1
 [4]: https://www.youtube.com/watch?v=zesWRaCCM7E&list=PLBZnGZWZgEBZ8Me6WDQGdQRg438_Z4sl_&index=2
 [5]: https://www.youtube.com/watch?v=ztpdk-mkpzM&list=PLBZnGZWZgEBZ8Me6WDQGdQRg438_Z4sl_&index=3
+[6]: https://www.youtube.com/watch?v=eDsSRO_XfQk&list=PLBZnGZWZgEBZ8Me6WDQGdQRg438_Z4sl_&index=4
+[7]: https://www.youtube.com/watch?v=wRIABwHAIb4&list=PLBZnGZWZgEBZ8Me6WDQGdQRg438_Z4sl_&index=5
