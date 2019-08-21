@@ -44,7 +44,7 @@ You might want to switch to the VariantSync perspective to open all necessary wi
  
 ### Instructions for Resproductions of the [Screencast][2]
 
-- [Video 2 (Setting-Up Legacy Clones for Synchronization)][3]: Please checkout the branch `screencast_video2`.
+- [Video 2 (Setting-Up Legacy Clones for Synchronization)][3]: Please checkout the branch `screencast_video2`. At the end of the video you will see the project in a state like in the `master` branch.
 
 [1]: https://github.com/tthuem/VariantSync
 [2]: https://www.youtube.com/playlist?list=PLBZnGZWZgEBZ8Me6WDQGdQRg438_Z4sl_
