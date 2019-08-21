@@ -44,9 +44,11 @@ You might want to switch to the VariantSync perspective to open all necessary wi
  
 ### Instructions for Resproductions of the [Screencast][2]
 
+To reproduce the screencasts dedicated branches are available when a certain setup is required:
 - [Video 1 (Automating the Synchronization of Software Variants)][3]: You can use the `master` branch to reproduce this scenario.
 - [Video 2 (Setting-Up Legacy Clones for Synchronization)][4]: Please checkout the branch `screencast_video2`. At the end of the video you will see the project in a state like in the `master` branch.
 - [Video 3 (Recording Feature Mappings During Clone Evolution)][5]: You can use the `master` branch to reproduce this scenario.
+- [Video 4 (Change Synchronization into Multiple Clones)][6]: Please checkout the branch `screencast_video4`.
 
 [1]: https://github.com/tthuem/VariantSync
 [2]: https://www.youtube.com/playlist?list=PLBZnGZWZgEBZ8Me6WDQGdQRg438_Z4sl_
