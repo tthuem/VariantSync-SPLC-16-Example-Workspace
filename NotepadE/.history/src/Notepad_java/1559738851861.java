@@ -138,7 +138,7 @@ class  Notepad  extends JFrame {
 	
 		JToolBar toolBar = buildToolBar();
 		if (toolBar.getComponentCount() > 0) {
-			getContentPane().add("South", toolBar);
+			getContentPane().add("North", toolBar);
 		}
 	
 		getTextComponent().getDocument().addUndoableEditListener(new UndoableEditListener(){

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Mappings>
+    <SourceFile path="/NotepadE/src/Notepad.java">
+        <CodeMapping context="ToolBar" isLine="true" length="0" offset="140">141:;:			getContentPane().add("South", toolBar);:;:		JToolBar toolBar = buildToolBar();#:#		if (toolBar.getComponentCount() &gt; 0) {:;:		}#:#	</CodeMapping>
+    </SourceFile>
+    <SourceFile path="/NotepadE/src/UndoAction.java">
+        <CodeMapping context="Undo" isLine="true" length="0" offset="16">17:;:		super( "Undo Edit" );:;:#:#	public UndoAction(Notepad notepad){:;:		putValue( Action.SMALL_ICON,#:#			new ImageIcon( this.getClass().getResource( "images/undo.gif" ) ) );</CodeMapping>
+    </SourceFile>
+</Mappings>

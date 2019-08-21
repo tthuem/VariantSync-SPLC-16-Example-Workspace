@@ -14,7 +14,7 @@ class  UndoAction  extends AbstractAction {
 	
 
 	public UndoAction(Notepad notepad){
-		super( "Undo Edit" );
+		super( "Undo" );
 		putValue( Action.SMALL_ICON,
 			new ImageIcon( this.getClass().getResource( "images/undo.gif" ) ) );
 		setEnabled( false );

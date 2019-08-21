@@ -1,2 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Patches/>
+<Patches>
+    <Patch context="ToolBar" end="1566408928232" start="1566408927045">
+        <Delta context="ToolBar" factoryId="de.tubs.variantsync.core.diff" res="\NotepadE\src\Notepad.java" timestamp="1566408927022" type="CHANGED">
+            <SynchronizedProjects/>
+            <Properties/>
+            <Original>141:;:			getContentPane().add("North", toolBar);:;:		JToolBar toolBar = buildToolBar();#:#		if (toolBar.getComponentCount() &gt; 0) {:;:		}#:#	</Original>
+            <Revised>141:;:			getContentPane().add("South", toolBar);:;:		JToolBar toolBar = buildToolBar();#:#		if (toolBar.getComponentCount() &gt; 0) {:;:		}#:#	</Revised>
+        </Delta>
+    </Patch>
+    <Patch context="Undo" end="1566408962255" start="1566408960957">
+        <Delta context="Undo" factoryId="de.tubs.variantsync.core.diff" res="\NotepadE\src\UndoAction.java" timestamp="1566408960947" type="CHANGED">
+            <SynchronizedProjects/>
+            <Properties/>
+            <Original>17:;:		super( "Undo" );:;:#:#	public UndoAction(Notepad notepad){:;:		putValue( Action.SMALL_ICON,#:#			new ImageIcon( this.getClass().getResource( "images/undo.gif" ) ) );</Original>
+            <Revised>17:;:		super( "Undo Edit" );:;:#:#	public UndoAction(Notepad notepad){:;:		putValue( Action.SMALL_ICON,#:#			new ImageIcon( this.getClass().getResource( "images/undo.gif" ) ) );</Revised>
+        </Delta>
+    </Patch>
+</Patches>
