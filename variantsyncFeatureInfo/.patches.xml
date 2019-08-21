@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Patches/>
+<Patches>
+    <Patch context="Undo" end="1566407630010" start="1566407628423">
+        <Delta context="Undo" factoryId="de.tubs.variantsync.core.diff" res="\NotepadE\src\UndoAction.java" timestamp="1566407628415" type="CHANGED">
+            <SynchronizedProjects/>
+            <Properties/>
+            <Original>17:;:		super( "Undo" );:;:#:#	public UndoAction(Notepad notepad){:;:		putValue( Action.SMALL_ICON,#:#			new ImageIcon( this.getClass().getResource( "images/undo.gif" ) ) );</Original>
+            <Revised>17:;:		super( "Undo Edit" );:;:#:#	public UndoAction(Notepad notepad){:;:		putValue( Action.SMALL_ICON,#:#			new ImageIcon( this.getClass().getResource( "images/undo.gif" ) ) );</Revised>
+        </Delta>
+    </Patch>
+</Patches>
