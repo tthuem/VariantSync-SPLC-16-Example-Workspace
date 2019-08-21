@@ -3,9 +3,9 @@ Complete workspace that was used during the demonstration of VariantSync at SPLC
 
 ## VariantSync Demo
 
-This is an example for [VariantSync](https://github.com/tthuem/VariantSync). 
+This is an example for [VariantSync][1]. 
 The following instructions are a guide for this example.
-For a step by step guide please consider the available [screencasts](https://www.youtube.com/playlist?list=PLBZnGZWZgEBZ8Me6WDQGdQRg438_Z4sl_).
+For a step by step guide please consider the available [screencasts][2].
 
 0. Import all projects into your Eclipse Workspace.
 All Notepad projects should be marked as VariantSync projects (![little green V icon](VariantSyncSupport.png "VariantSyncIcon")) except for NotepadH.
@@ -42,3 +42,10 @@ You might want to switch to the VariantSync perspective to open all necessary wi
    * Synchronize the variants with the source-focused view.
    * Look at the results in variants with and without merge conflicts.
  
+### Instructions for Resproductions of the [Screencast][2]
+
+- [Video 2 (Setting-Up Legacy Clones for Synchronization)][3]: Please checkout the branch `screencast_video2`.
+
+[1]: https://github.com/tthuem/VariantSync
+[2]: https://www.youtube.com/playlist?list=PLBZnGZWZgEBZ8Me6WDQGdQRg438_Z4sl_
+[3]: https://www.youtube.com/watch?v=zesWRaCCM7E&list=PLBZnGZWZgEBZ8Me6WDQGdQRg438_Z4sl_&index=2
