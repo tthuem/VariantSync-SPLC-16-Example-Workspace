@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<Mappings>
-    <SourceFile path="/NotepadA/src/UndoAction.java">
-        <CodeMapping context="ToolBar" isLine="false" length="101" offset="274">putValue( Action.SMALL_ICON,&#13;
-			new ImageIcon( this.getClass().getResource( "images/undo.gif" ) ) );
-		</CodeMapping>
-    </SourceFile>
-</Mappings>

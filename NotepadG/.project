@@ -12,8 +12,6 @@
 		</buildCommand>
 	</buildSpec>
 	<natures>
-		<nature>de.tubs.variantsync.core.variant</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
-		<nature>de.ovgu.variantsync.vsyncSupportProjectNature</nature>
 	</natures>
 </projectDescription>
